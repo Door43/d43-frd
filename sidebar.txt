@@ -10,6 +10,10 @@
   * [[frd:obs|Open Bible Stories (frd)]]
 
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-frd|d43-frd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-frd/archive/master.zip|d43-frd.zip]]
+
 **Recent Changes**
 {{changes>ns = frd}}
 
